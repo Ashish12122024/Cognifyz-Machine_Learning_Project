@@ -1,6 +1,4 @@
-Here’s a modified version for a **Machine Learning Internship** at Cognifyz with distinct tasks and focus:
 
----
 
 # Machine Learning Internship at Cognifyz
 ## Overview
@@ -80,6 +78,4 @@ My internship at Cognifyz Technologies offered a profound learning experience, a
 
 This internship reinforced my passion for machine learning and provided me with a solid foundation to continue exploring advanced AI techniques. I am excited to apply these skills in future projects, driving impactful business outcomes with intelligent models and data-driven strategies.
 
---- 
 
-How does this version look for you? Let me know if you’d like any adjustments!
